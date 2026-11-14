@@ -1,0 +1,7 @@
+node_modules/
+dist/
+references/
+public/
+artifacts/
+package-lock.json
+*.tsbuildinfo
